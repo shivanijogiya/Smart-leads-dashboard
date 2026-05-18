@@ -4,6 +4,9 @@
   "private": true,
   "type": "module",
   "description": "Full-stack MERN TypeScript lead management dashboard.",
+  "engines": {
+    "node": "22.x"
+  },
   "workspaces": [
     "client",
     "server"
