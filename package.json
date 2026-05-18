@@ -1,0 +1,21 @@
+{
+  "name": "smart-leads-dashboard",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "Full-stack MERN TypeScript lead management dashboard.",
+  "workspaces": [
+    "client",
+    "server"
+  ],
+  "scripts": {
+    "dev": "concurrently \"npm run dev -w server\" \"npm run dev -w client\"",
+    "build": "npm run build -w server && npm run build -w client",
+    "start": "npm run start -w server",
+    "seed": "npm run seed -w server",
+    "lint": "npm run lint -w server && npm run lint -w client"
+  },
+  "devDependencies": {
+    "concurrently": "^8.2.2"
+  }
+}
