@@ -1,6 +1,6 @@
 # Smart Leads Dashboard
 
-A full-stack MERN TypeScript lead management dashboard with JWT authentication, role-based access, backend filtering, pagination, debounced search, CSV export, responsive UI, and Docker setup.
+A full-stack MERN TypeScript smart lead management dashboard with JWT authentication, role-based access, backend filtering, pagination, debounced search, CSV export, responsive UI, and Docker setup.
 
 ## What The Assessment Asked For
 
