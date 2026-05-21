@@ -2,7 +2,7 @@
 
 A full-stack MERN TypeScript smart lead management dashboard with JWT authentication, role-based access, backend filtering, pagination, debounced search, CSV export, responsive UI, and Docker setup.
 
-## What The Assessment Asked For
+## Requirements:
 
 - React, TypeScript, and TailwindCSS frontend.
 - Node.js, Express, TypeScript, MongoDB, and Mongoose backend.
