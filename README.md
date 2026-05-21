@@ -59,7 +59,7 @@ npm run dev
 Frontend runs on `http://localhost:5173`.
 Backend runs on `http://localhost:5000`.
 
-## Demo Accounts
+## Demo Accounts for admin and sales
 
 After running `npm run seed`:
 
