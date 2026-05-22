@@ -1,4 +1,4 @@
-# Smart Leads Dashboard
+# Smart Leads Dashboard (assessment)
 
 A full-stack MERN TypeScript smart lead management dashboard with JWT authentication, role-based access, backend filtering, pagination, debounced search, CSV export, responsive UI, and Docker setup.
 live at https://smart-leads-dashboard-steel.vercel.app/login
